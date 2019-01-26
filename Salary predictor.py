@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 20.11.2018"""
+
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
