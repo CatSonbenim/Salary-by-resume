@@ -35,9 +35,9 @@
 "erlang";0.1
 "html5";0.1
 "junior";0.05
-"senior";0.5
+"senior";0.75
 "developer";0.075
-"css";0.1
+"css";0.5
 "design";0.075
 "localstorage";0.003
 "mysql";0.005
@@ -55,7 +55,7 @@
 "ios";0.2
 "web";0.1
 "1c";0.1
-"software";0.5
+"software";0.75
 "инженер";0.075
 "программист";0.1
 "технолог";0.005
